@@ -4,6 +4,7 @@
 .project
 *.class
 *.log
+*.exe
 
 # Package Files #
 *.jar
